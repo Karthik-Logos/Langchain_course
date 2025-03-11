@@ -1,0 +1,17 @@
+langchain
+python-dotenv
+openai
+chromadb
+tiktoken
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+requests
+pandas
+numpy
+jupyter
+
+pip install wikipedia
+
+pip install langchain-experimental
+pip install networkx
