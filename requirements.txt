@@ -11,8 +11,6 @@ pandas
 numpy
 jupyter
 langchain_openai
-
-pip install wikipedia
-
-pip install langchain-experimental
-pip install networkx
+wikipedia
+langchain-experimental
+networkx
